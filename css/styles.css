@@ -111,13 +111,13 @@ body {
 }
 .porfolio-card{
     display: flex;
-        width: 360px;
-        height: 420px;
-        padding: 0px 0px 32px 0px;
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 32px;
-        flex-shrink: 0;
-        border: 1px solid var(--cornflower, #E7E9FC);
-            background: var(--white, #FFF);
+    width: 360px;
+    height: 420px;
+    padding: 0px 0px 32px 0px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+    flex-shrink: 0;
+    border: 1px solid var(--cornflower);
+    background: var(--white);
 }
